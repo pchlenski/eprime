@@ -1,0 +1,291 @@
+ROOT
+  (S
+    (NP (DT the) (NN cake))
+    (VP (VBZ is)
+      (ADJP (JJ good)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT the) (NN perfume))
+    (VP (VBZ is)
+      (ADJP (JJ good)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT the) (NN water))
+    (VP (VBZ is)
+      (ADJP (JJ fine)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT the) (NN harvest))
+    (VP (VBZ is)
+      (ADJP (JJ good)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT the) (NN painting))
+    (VP (VBZ is)
+      (ADJP (JJ good)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT the) (NN cake))
+    (VP (VBZ is) (RB not)
+      (ADJP (JJ good)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT the) (NN cat))
+    (VP (VBZ is)
+      (ADJP (JJ soft)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNP John))
+    (VP (VBD was) (RB not)
+      (ADJP (JJ happy)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP it))
+    (VP (MD will)
+      (VP (VB be)
+        (ADJP (JJ painful))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBD was)
+      (ADJP (JJ happy)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT the) (NN earth))
+    (VP (VBD was)
+      (NP
+        (ADJP (JJ small)
+          (CC and)
+          (JJ light))
+        (NN blue)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP he))
+    (VP (VBD was)
+      (ADJP (JJ smart)
+        (CC and)
+        (JJ handsome)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT the) (NN song))
+    (VP (VBZ is)
+      (ADJP (JJ good)))
+    (. .)))
+
+
+(ROOT
+  (S
+    (NP (DT the) (NN investment))
+    (VP (VBD was)
+      (ADJP (JJ lucrative)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP it))
+    (VP (VBD was)
+      (ADJP (JJ delicious)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP it))
+    (VP (VBZ is)
+      (ADJP (JJ delicious)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP it))
+    (VP (MD will)
+      (VP (VB be)
+        (ADJP (JJ beautiful))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT this) (NN chocolate) (NN cake))
+    (VP (VBZ is)
+      (ADJP (JJ delicious)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT the) (NN photograph))
+    (VP (VBZ is)
+      (ADJP (VBN crumpled)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT the) (NN perfume))
+    (VP (VBZ is)
+      (ADJP (JJ sweet)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT the) (NN cake))
+    (VP (VBZ is)
+      (ADJP (JJ sweet)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT the) (NNS flags))
+    (VP (VBP are) (RB all)
+      (ADJP (JJ green)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP you))
+    (VP (VBD were)
+      (ADVP (RB never))
+      (ADJP (JJ happy)))
+    (. .)))
+
+
+(ROOT
+  (S
+    (NP (NNP Tom))
+    (VP (VBD was)
+      (ADJP (JJ angry)
+        (CC and)
+        (JJ scared)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP$ your) (NN plan))
+    (VP (VBZ is)
+      (ADJP (JJ good)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP$ your) (NN dress))
+    (VP (VBZ is)
+      (ADJP (JJ great)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP we))
+    (VP (VBP are)
+      (ADJP (JJ ugly)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT this) (NN musician))
+    (VP (VBZ is)
+      (ADJP (JJ lovely)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT the) (NN milk))
+    (VP (VBZ is)
+      (ADJP (JJ spoiled)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP it))
+    (VP (VBZ is)
+      (ADJP (RB too) (JJ hot)
+        (PP (IN outside))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP$ my) (NN candy))
+    (VP (MD will)
+      (VP (VB be)
+        (ADJP (JJ sour))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT all))
+    (VP (VBD was)
+      (ADJP (JJ silent)
+        (PP (IN at)
+          (NP (JJ last)))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT the) (NN cheese))
+    (VP (VBD was)
+      (ADJP (RB especially) (JJ bitter)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP he))
+    (VP (VBZ is)
+      (ADJP (JJ rich)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT the) (NNS vases))
+    (VP (VBD were)
+      (ADJP (JJ opaque)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (JJ ash) (NN bark))
+    (VP (VBZ is)
+      (ADJP (JJ rough)
+        (PP (IN in)
+          (NP (NN texture)))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT the) (NNS floors))
+    (VP (VBP are)
+      (ADJP (JJ sticky)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT the) (NN owner))
+    (VP (VBD was)
+      (ADJP (JJ malicious)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP$ your) (NN offer))
+    (VP (VBZ is)
+      (ADJP (JJ good)))
+    (. .)))
